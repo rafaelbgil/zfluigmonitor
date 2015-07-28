@@ -108,10 +108,10 @@ case $1 in
                 echo "| -l : Exibe status de disponibilidade do License Server                       |"
                 echo "| -i : Exibe status de disponibilidade do Identity                             |"
                 echo "| -g : Exibe status de disponibilidade do Goodata                              |"
-				echo "| -gdbs :Exibe valor numerico do tamanho do banco de dados em bytes            |"
-				echo "| -gvds :Exibe valor numerico do tamanho do volume em bytes                    |"
-				echo "| -glds :Exibe valor numerico do tamanho dos logs em bytes                     |"
-				echo "| -gtds :Exibe valor numerico do tamanho dos templates em bytes                |"
+		echo "| -gdbs :Exibe valor numerico do tamanho do banco de dados em bytes            |"
+		echo "| -gvds :Exibe valor numerico do tamanho do volume em bytes                    |"
+		echo "| -glds :Exibe valor numerico do tamanho dos logs em bytes                     |"
+		echo "| -gtds :Exibe valor numerico do tamanho dos templates em bytes                |"
                 echo "+==============================================================================+"
 
 
