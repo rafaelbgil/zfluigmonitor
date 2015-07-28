@@ -2,6 +2,7 @@
 Template de monitoramento do Fluig Totvs via Zabbix
 
 Descrição: Template criado com o objetivo de obter informações de monitoramento do Fluig gerados pelo pacote monitor.war.
+
 Atualmente o template monitora os seguintes itens:
 - Disponibilidade do Banco de Dados
 - Disponibilidade de E-mail
