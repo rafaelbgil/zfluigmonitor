@@ -11,3 +11,9 @@ Atualmente o template monitora os seguintes itens:
 - Disponibilidade do License Server
 - Disponibilidade do Identity
 - Disponibilidade do Analytics (Goodata)
+
+Gera os seguintes Gráficos
+- Tamanho do Banco de Dados
+- Tamanho do Volume do Fluig
+- Tamanho dos Logs
+- Tamanho dos Templates
