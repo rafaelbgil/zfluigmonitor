@@ -18,3 +18,5 @@ Gera os seguintes Gráficos
 - Tamanho do Volume do Fluig
 - Tamanho dos Logs
 - Tamanho dos Templates
+
+Para informações sobre configuração e instalação do template acesse: https://github.com/rafaelbgil/zfluigmonitor/wiki
