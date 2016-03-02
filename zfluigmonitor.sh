@@ -1,5 +1,5 @@
 #!/bin/bash
-#Coletor de informações para template Fluig no Zabbix
+#Coletor de informações para template zfluigmonitor no Zabbix
 #Autor: Rafael Benites Gil
 SERVIDOR_MONITORADO='127.0.0.1';
 
