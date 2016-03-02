@@ -1,5 +1,5 @@
 # zfluigmonitor
-Template de monitoramento do Fluig Totvs via Zabbix
+Template de monitoramento do Fluig Totvs via Zabbix obtendo informações do pacotes monitor.war do Fluig.
 
 Descrição: Template criado com o objetivo de obter informações de monitoramento do Fluig gerados pelo pacote monitor.war.
 
